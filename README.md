@@ -1,8 +1,7 @@
 # Welcome to your Expo app 👋
+# WeatherMapApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
+A React Native app that shows current location on a map, allows searching for locations, and displays the weather (current + 7-day forecast). Includes light/dark theme support via a drawer switch.
 
 1. Install dependencies
 
